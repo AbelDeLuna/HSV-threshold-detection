@@ -1,2 +1,2 @@
 # OpenCV-Small-Projects
-Playing around with CV
+This is a portion of a larger project I've been working on to detect a specific shade of color and highlight the object.
